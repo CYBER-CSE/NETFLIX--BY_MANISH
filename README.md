@@ -1,4 +1,4 @@
-Netflix clone using mern stack
+Netflix clone using mern stack  https://netflix-by-manish.onrender.com/
 
 1. clone the repository 
 2. bash npm install
